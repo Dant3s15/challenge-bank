@@ -421,7 +421,7 @@ button:hover::before, .button:hover::before {
 
 .hero__image {
   position: relative;
-  background-image: url("imagesg-intro-mobile.svg");
+  background-image: url("/images/bg-intro-mobile.svg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
@@ -454,7 +454,7 @@ button:hover::before, .button:hover::before {
     position: absolute;
     width: 100%;
     height: 100%;
-    background-image: url("imagesg-intro-desktop.svg");
+    background-image: url("/images/bg-intro-desktop.svg");
     background-size: 93%;
     background-repeat: no-repeat;
     background-position: center bottom;
